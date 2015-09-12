@@ -1,0 +1,4 @@
+How might using version control make you more confident to make changes that could break something?
+Insurance policy.  If you make mistake, always able to get back to where you started.
+
+
