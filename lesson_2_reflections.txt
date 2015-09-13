@@ -1,21 +1,22 @@
-How did viewing a diff between two versions of a file help you see the bug that was introduced?
-easy to copare differences from working and non-working versions and find typo that led to bug.
-
-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-great to see evolution of the developemnt of the program,  Able to race back to when a feature, issue, function was added or changed and by whom.
-
-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-pro:  can comit at appropriate point
-con: human error..forget.
-
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-Based on original function design/purpose of ssytem.  Google more foucessed on more independent officee=type docs (independent) git code where dependencies common.
-
-How can you use the commands git log and git diff to view the history of files?
-You can find a spefic change (if commented)
-and then find wht the change was.
-
 How might using version control make you more confident to make changes that could break something?
 Insurance policy.  If you make mistake, always able to get back to where you started.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+gold code for release versions beta / alpha build code for next release.
+agile sprints
+
+How do the diagrams help you visualize the branch structure?
+much easier to see brand tips and unreachable nodes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+combined functionality of the 2 branches into 1
+shows that combination (sum of the 2 aprts
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+speed v. machine errors
+
+
+
+
 
 
