@@ -10,5 +10,14 @@ clone copy of repositories, whether local or remote,  fork github clone of repos
 What is the benefit of having a copy of the last known state of the remote stored locally?
 work offline, check in/ merge later
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+email, shared directory, google drive
+easy to learn, cons: nocontrol, versioning.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+experiemnt.  things that may never get into master
+
+
+
 
 
